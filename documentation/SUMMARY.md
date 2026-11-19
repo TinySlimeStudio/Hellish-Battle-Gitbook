@@ -4,6 +4,7 @@
 
 ## Weapon System
 
+* [Advanced Weapon Scripts](weapon-system/advanced-weapon-scripts.md)
 * [Template Name](weapon-system/template-name.md)
 
 ## Getting Started
