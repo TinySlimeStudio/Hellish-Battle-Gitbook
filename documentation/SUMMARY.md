@@ -4,7 +4,7 @@
 
 ## Weapon System
 
-* [Page 1](weapon-system/page-1.md)
+* [Template Name](weapon-system/template-name.md)
 
 ## Getting Started
 
